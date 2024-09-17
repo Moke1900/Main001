@@ -53,7 +53,7 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
 柚粤语电影03,http://159.75.85.63:35455/douyu/6566671
 柚粤语电影04,http://159.75.85.63:35455/douyu/6478650
-柚粤语电影05,http://159.75.85.63:35455/douyu/5061550
+柚港剧01,http://159.75.85.63:35455/douyu/5061550
 
 奶虫粤语电影,http://159.75.85.63:35455/douyu/5033502
 奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
@@ -160,6 +160,8 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 动漫花园,http://live.iill.top/douyu.php?id=426517
 动漫花园,http://159.75.85.63:35455/douyu/426517
 动漫花园,https://www.goodiptv.club/douyu/426517
+
+柚动漫01,http://159.75.85.63:35455/douyu/9455567
 
 动漫合集,http://live.iill.top/douyu.php?id=7620081
 动漫合集,http://159.75.85.63:35455/douyu/7620081
