@@ -179,6 +179,14 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 犬夜叉,http://159.75.85.63:35455/douyu/11906591
 犬夜叉,https://www.goodiptv.club/douyu/11906591
 
+游戏直播,#genre#
+恐怖游戏01,http://159.75.85.63:35455/douyu/10401446
+恐怖游戏02,http://159.75.85.63:35455/douyu/10401475
+恐怖游戏03,http://159.75.85.63:35455/douyu/10401481
+恐怖游戏04,http://159.75.85.63:35455/douyu/5836905
+恐怖游戏05,http://159.75.85.63:35455/douyu/9628877
+恐怖游戏06,http://159.75.85.63:35455/douyu/9401473
+
 哆啦A梦剧场版,#genre#
 
 大雄的恐龙1980,https://vip.lz-cdn17.com/20230610/15212_1a02a69b/2000k/hls/mixed.m3u8
