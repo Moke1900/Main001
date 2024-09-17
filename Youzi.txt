@@ -123,10 +123,6 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 
 电视剧频道,#genre#
 
-爱情公寓第三季,http://live.iill.top/douyu.php?id=6566658
-爱情公寓第三季,http://live.iill.top/douyu.php?id=6863367
-爱情公寓第三季,https://www.goodiptv.club/douyu/6566658
-爱情公寓第三季,https://www.goodiptv.club/douyu/6863367
 爱情公寓第三季,http://159.75.85.63:35455/douyu/6566658
 爱情公寓第三季,http://159.75.85.63:35455/douyu/6863367
 
@@ -140,10 +136,8 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 都挺好,https://cfss.cc/api/yy/1382736892.flv
 
 欢乐颂,http://cfss.cc/api/yy/1382735624.flv
-鸡毛飞上天,http://cfss.cc/api/yy/1461033197.flv
 平凡岁月,http://cfss.cc/api/yy/1382745117.flv
 小欢喜,http://cfss.cc/api/yy/1382737888.flv
-繁花,http://cfss.cc/api/hy/21059580.flv
 情满四合院,http://cfss.cc/api/yy/1382735541.flv
 
 好先生,http://cfss.cc/api/hy/11602088.m3u8
@@ -157,12 +151,8 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 
 综艺,#genre#
 
-
-体育,#genre#
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=f61c96ba334f9897e5312adcc80772d6&txTime=1918f003a4f
-
 动游新天地,#genre#
-动漫秀场,http://101.229.227.246:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+
 动漫频道01,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/1200.m3u8
 
 动漫花园,http://live.iill.top/douyu.php?id=426517
@@ -325,11 +315,7 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 美食频道,#genre#
 孤独的美食家,http://live.iill.top/douyu.php?id=6733133
 孤独的美食家,http://live.iill.top/douyu.php?id=260322
-胖小龙的生活,http://live.iill.top/douyu.php?id=9116745
-吃货请闭眼,http://live.iill.top/douyu.php?id=9498248
-滇西小哥,http://live.iill.top/douyu.php?id=3243427
 威廉沈欢乐送,https://v.cdnlz13.com/20240302/25081_5841e708/index.m3u8
-美食作家王刚,http://live.iill.top/douyu.php?id=8144937
 美食台,http://live.iill.top/douyu.php?id=3091151
 美味小舍,http://live.iill.top/douyu.php?id=9540821
 日食记,http://live.iill.top/douyu.php?id=2206405
@@ -338,10 +324,6 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 
 孤独的美食家,https://www.goodiptv.club/douyu/6733133
 孤独的美食家,https://www.goodiptv.club/douyu/260322
-胖小龙的生活,https://www.goodiptv.club/douyu/9116745
-吃货请闭眼,https://www.goodiptv.club/douyu/9498248
-滇西小哥,https://www.goodiptv.club/douyu/3243427
-美食作家王刚,https://www.goodiptv.club/douyu/8144937
 美食台,https://www.goodiptv.club/douyu/3091151
 美味小舍,https://www.goodiptv.club/douyu/9540821
 日食记,https://www.goodiptv.club/douyu/2206405
@@ -350,31 +332,11 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 
 孤独的美食家,http://159.75.85.63:35455/douyu/6733133
 孤独的美食家,http://159.75.85.63:35455/douyu/260322
-胖小龙的生活,http://159.75.85.63:35455/douyu/9116745
-吃货请闭眼,http://159.75.85.63:35455/douyu/9498248
-滇西小哥,http://159.75.85.63:35455/douyu/3243427
-美食作家王刚,http://159.75.85.63:35455/douyu/8144937
 美食台,http://159.75.85.63:35455/douyu/3091151
 美味小舍,http://159.75.85.63:35455/douyu/9540821
 日食记,http://159.75.85.63:35455/douyu/2206405
 与光料理,http://159.75.85.63:35455/douyu/9665266
 美食纪录片,http://159.75.85.63:35455/douyu/9290734
-
-荒野求生频道,#genre#
-贝爷,http://live.iill.top/douyu.php?id=454867
-荒野求生,http://live.iill.top/douyu.php?id=9252708
-胖达,http://live.iill.top/douyu.php?id=1623125
-荒野一哥,http://live.iill.top/yy.php?id=1355244170
-
-贝爷,https://www.goodiptv.club/douyu/454867
-荒野求生,https://www.goodiptv.club/douyu/9252708
-胖达,https://www.goodiptv.club/douyu/1623125
-荒野一哥,https://www.goodiptv.club/yy/1355244170
-
-贝爷,http://159.75.85.63:35455/douyu/454867
-荒野求生,http://159.75.85.63:35455/douyu/9252708
-胖达,http://159.75.85.63:35455/douyu/1623125
-荒野一哥,http://159.75.85.63:35455/yy/1355244170
 
 直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
