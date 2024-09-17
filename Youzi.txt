@@ -121,10 +121,6 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 喜剧电影专场,http://live.iill.top/douyu.php?id=9292492
 喜剧电影专场,https://www.goodiptv.club/douyu/9292492
 
-粤语电影,http://159.75.85.63:35455/douyu/1226741
-粤语电影,http://live.iill.top/douyu.php?id=1226741
-粤语电影,https://www.goodiptv.club/douyu/1226741
-
 电视剧频道,#genre#
 
 爱情公寓第三季,http://159.75.85.63:35455/douyu/6566658
