@@ -12,6 +12,7 @@
 广州电视台,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=3f108a7c44d7a42c24a30324649a1e2d&txTime=1913a355160
 东方卫视,http://video.qd.sdu.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/index.m3u8
+超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
 CCTV-6 电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -35,19 +36,40 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 台湾TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 印DDI,https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000.m3u8
 
+央视,#genre#
+CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 电影剧场,#genre#
 柚子恐怖1,http://159.75.85.63:35455/douyu/2935323
+惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 怡寶影院㊣版,http://159.75.85.63:35455/douyu/434971
+黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
-神乐经典影片,http://live.iill.top/douyu.php?id=85894
-神乐影片华语房,http://live.iill.top/douyu.php?id=122402
-神乐影片粤语房,http://live.iill.top/douyu.php?id=6566671
+精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 
 香港赌片电影,http://159.75.85.63:35455/douyu/315457
 香港赌片电影,https://www.goodiptv.club/douyu/315457
 香港赌片电影,http://live.iill.top/douyu.php?id=315457
+
+柚经典电影,http://159.75.85.63:35455/douyu/85894
+柚华语片房,http://159.75.85.63:35455/douyu/122402
 
 柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
 柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
@@ -83,15 +105,12 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 成龙电影,http://live.iill.top/douyu.php?id=3379942
 成龙电影,https://www.goodiptv.club/douyu/3379942
 
-贝爷影厅1厅,http://live.iill.top/douyu.php?id=252802
 贝爷影厅1厅,http://159.75.85.63:35455/douyu/252802
 贝爷影厅1厅,https://www.goodiptv.club/douyu/252802
 
-贝爷影厅2厅,http://live.iill.top/douyu.php?id=36337
 贝爷影厅2厅,http://159.75.85.63:35455/douyu/36337
 贝爷影厅2厅,https://www.goodiptv.club/douyu/36337
 
-小U恐怖片,http://live.iill.top/douyu.php?id=96577
 小U恐怖片,http://159.75.85.63:35455/douyu/96577
 小U恐怖片,https://www.goodiptv.club/douyu/96577
 
@@ -152,6 +171,9 @@ BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_600000=4-m
 施公奇案2,http://cfss.cc/api/yy/1382736824.flv
 
 综艺,#genre#
+超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+
 
 动游新天地,#genre#
 
