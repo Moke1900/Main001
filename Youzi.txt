@@ -71,16 +71,32 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 柚经典电影,http://159.75.85.63:35455/douyu/85894
 柚华语片房,http://159.75.85.63:35455/douyu/122402
 
+奶虫粤语电影,http://159.75.85.63:35455/douyu/5033502
+奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
+奶虫粤语电影,https://www.goodiptv.club/douyu/5033502
+
 柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
 柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
 柚粤语电影03,http://159.75.85.63:35455/douyu/6566671
 柚粤语电影04,http://159.75.85.63:35455/douyu/6478650
 柚解说电影01,http://159.75.85.63:35455/douyu/752376
-柚港剧01,http://159.75.85.63:35455/douyu/5061550
+柚解说电影02,http://159.75.85.63:35455/douyu/8774345
+柚解说电影03,http://159.75.85.63:35455/douyu/8851063
+柚解说电影04,http://159.75.85.63:35455/douyu/8884164
+柚解说电影05,http://159.75.85.63:35455/douyu/8325511
+柚解说电影06,http://159.75.85.63:35455/douyu/2758565
+柚解说悬疑电影,http://159.75.85.63:35455/douyu/9037784
+柚港电视剧01,http://159.75.85.63:35455/douyu/5061550
+柚港电视剧02,http://159.75.85.63:35455/douyu/4290711
+柚港电视剧03,http://159.75.85.63:35455/douyu/6581531
+柚港电视剧04,http://159.75.85.63:35455/douyu/9548850
+柚港电视剧05,http://159.75.85.63:35455/douyu/5261342
+柚港电视剧06,http://159.75.85.63:35455/douyu/5522351
+柚港电视剧07,http://159.75.85.63:35455/douyu/4549169
+柚国语电影01,http://159.75.85.63:35455/douyu/7623292
+柚国语电影02,http://159.75.85.63:35455/douyu/1377142
+柚军战电视剧,http://159.75.85.63:35455/douyu/9176009
 
-奶虫粤语电影,http://159.75.85.63:35455/douyu/5033502
-奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
-奶虫粤语电影,https://www.goodiptv.club/douyu/5033502
 
 恐怖经典剧场,http://159.75.85.63:35455/douyu/1165374
 恐怖经典剧场,https://www.goodiptv.club/douyu/1165374
@@ -179,6 +195,8 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 动游新天地,#genre#
 
 动漫频道01,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/1200.m3u8
+
+动漫推荐,http://159.75.85.63:35455/douyu/9272043
 
 动漫花园,http://live.iill.top/douyu.php?id=426517
 动漫花园,http://159.75.85.63:35455/douyu/426517
@@ -589,5 +607,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 Muzzik,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 韩国1,https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
 韩国2,https://vd3.bdstatic.com/mda-nba9z1mqi949jyyb/sc/cae_h264_delogo/1644629210546304303/mda-nba9z1mqi949jyyb.mp4
+动漫混剪视听,http://159.75.85.63:35455/douyu/9191006
+二次元舞蹈,http://159.75.85.63:35455/douyu/9409703
 
 测试,#genre#
