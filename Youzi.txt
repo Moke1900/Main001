@@ -74,6 +74,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 奶虫粤语电影,http://159.75.85.63:35455/douyu/5033502
 奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
 奶虫粤语电影,https://www.goodiptv.club/douyu/5033502
+奶虫粤语电影,http://192.168.31.246:35455/douyu/5033502
 
 柚粤语综艺01,http://159.75.85.63:35455/douyu/8764282
 柚粤语综艺01,https://www.goodiptv.club/douyu/8764282
