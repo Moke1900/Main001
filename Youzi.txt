@@ -76,15 +76,25 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 奶虫粤语电影,https://www.goodiptv.club/douyu/5033502
 
 柚粤语综艺01,http://159.75.85.63:35455/douyu/8764282
+柚粤语综艺01,https://www.goodiptv.club/douyu/8764282
+柚粤语综艺01,http://live.iill.top/douyu.php?id=8764282
 
 柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
 柚粤语电影01,https://www.goodiptv.club/douyu/1226741
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
 
 柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
+柚粤语电影02,https://www.goodiptv.club/douyu/10338873
+柚粤语电影02,http://live.iill.top/douyu.php?id=10338873
 
 柚粤语电影03,http://159.75.85.63:35455/douyu/6566671
+柚粤语电影03,https://www.goodiptv.club/douyu/6566671
+柚粤语电影03,http://live.iill.top/douyu.php?id=6566671
+
 柚粤语电影04,http://159.75.85.63:35455/douyu/6478650
+柚粤语电影04,https://www.goodiptv.club/douyu/6478650
+柚粤语电影04,http://live.iill.top/douyu.php?id=6478650
+
 柚解说电影01,http://159.75.85.63:35455/douyu/752376
 柚解说电影02,http://159.75.85.63:35455/douyu/8774345
 柚解说电影03,http://159.75.85.63:35455/douyu/8851063
