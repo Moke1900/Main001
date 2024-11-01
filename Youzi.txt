@@ -74,45 +74,38 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 奶虫粤语电影,http://159.75.85.63:35455/douyu/5033502
 奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
 奶虫粤语电影,https://www.goodiptv.club/douyu/5033502
-奶虫粤语电影,http://192.168.31.246:35455/douyu/5033502
 
 柚粤语综艺01,http://159.75.85.63:35455/douyu/8764282
+柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
 柚粤语综艺01,https://www.goodiptv.club/douyu/8764282
-柚粤语综艺01,http://live.iill.top/douyu.php?id=8764282
 
 柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
-柚粤语电影01,https://www.goodiptv.club/douyu/1226741
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
+柚粤语电影01,https://www.goodiptv.club/douyu/1226741
 
 柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
-柚粤语电影02,https://www.goodiptv.club/douyu/10338873
 柚粤语电影02,http://live.iill.top/douyu.php?id=10338873
+柚粤语电影02,https://www.goodiptv.club/douyu/10338873
 
 柚粤语电影03,http://159.75.85.63:35455/douyu/6566671
-柚粤语电影03,https://www.goodiptv.club/douyu/6566671
 柚粤语电影03,http://live.iill.top/douyu.php?id=6566671
+柚粤语电影03,https://www.goodiptv.club/douyu/6566671
 
 柚粤语电影04,http://159.75.85.63:35455/douyu/6478650
-柚粤语电影04,https://www.goodiptv.club/douyu/6478650
 柚粤语电影04,http://live.iill.top/douyu.php?id=6478650
+柚粤语电影04,https://www.goodiptv.club/douyu/6478650
 
-柚解说电影01,http://159.75.85.63:35455/douyu/752376
-柚解说电影02,http://159.75.85.63:35455/douyu/8774345
-柚解说电影03,http://159.75.85.63:35455/douyu/8851063
-柚解说电影04,http://159.75.85.63:35455/douyu/8884164
-柚解说电影05,http://159.75.85.63:35455/douyu/8325511
-柚解说电影06,http://159.75.85.63:35455/douyu/2758565
-柚解说悬疑电影,http://159.75.85.63:35455/douyu/9037784
-柚港电视剧01,http://159.75.85.63:35455/douyu/5061550
-柚港电视剧02,http://159.75.85.63:35455/douyu/4290711
-柚港电视剧03,http://159.75.85.63:35455/douyu/6581531
-柚港电视剧04,http://159.75.85.63:35455/douyu/9548850
-柚港电视剧05,http://159.75.85.63:35455/douyu/5261342
-柚港电视剧06,http://159.75.85.63:35455/douyu/5522351
-柚港电视剧07,http://159.75.85.63:35455/douyu/4549169
 柚国语电影01,http://159.75.85.63:35455/douyu/7623292
+柚国语电影01,http://live.iill.top/douyu.php?id=7623292
+柚国语电影01,https://www.goodiptv.club/douyu/7623292
+
 柚国语电影02,http://159.75.85.63:35455/douyu/1377142
+柚国语电影02,http://live.iill.top/douyu.php?id=1377142
+柚国语电影02,https://www.goodiptv.club/douyu/1377142
+
 柚军战电视剧,http://159.75.85.63:35456/douyu/9176009
+柚军战电视剧,http://live.iill.top/douyu.php?id=9176009
+柚军战电视剧,https://www.goodiptv.club/douyu/9176009
 
 
 恐怖经典剧场,http://159.75.85.63:35455/douyu/1165374
