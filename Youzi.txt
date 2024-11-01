@@ -97,7 +97,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 柚港电视剧07,http://159.75.85.63:35455/douyu/4549169
 柚国语电影01,http://159.75.85.63:35455/douyu/7623292
 柚国语电影02,http://159.75.85.63:35455/douyu/1377142
-柚军战电视剧,http://159.75.85.63:35455/douyu/9176009
+柚军战电视剧,http://159.75.85.63:35456/douyu/9176009
 
 
 恐怖经典剧场,http://159.75.85.63:35455/douyu/1165374
@@ -119,10 +119,6 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 小白影院,http://159.75.85.63:35455/douyu/322360
 小白影院,http://live.iill.top/douyu.php?id=322360
 小白影院,https://www.goodiptv.club/douyu/322360
-
-成龙电影,http://159.75.85.63:35455/douyu/3379942
-成龙电影,http://live.iill.top/douyu.php?id=3379942
-成龙电影,https://www.goodiptv.club/douyu/3379942
 
 贝爷影厅1厅,http://159.75.85.63:35455/douyu/252802
 贝爷影厅1厅,https://www.goodiptv.club/douyu/252802
