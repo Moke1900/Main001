@@ -72,9 +72,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 柚华语片房，http://live.iill.top/douyu.php?id=122402
 
 
-奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
-奶虫粤语电影,http://159.75.85.63:35455/douyu/5033502
-奶虫粤语电影,https://www.goodiptv.club/douyu/5033502
+奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502#http://159.75.85.63:35455/douyu/5033502#https://www.goodiptv.club/douyu/5033502
 
 
 柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
@@ -83,7 +81,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 
 柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
 柚粤语电影02,http://live.iill.top/douyu.php?id=10338873
-柚粤语电影02，https://www.goodiptv.club/douyu/10338873
+柚粤语电影02,https://www.goodiptv.club/douyu/10338873
 
 柚粤语电影03,http://159.75.85.63:35455/douyu/6566671
 柚粤语电影03，https://www.goodiptv.club/douyu/6566671
@@ -98,38 +96,6 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 动游新天地,#genre#
 
 动漫频道01,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/1200.m3u8
-
-动漫推荐,http://159.75.85.63:35455/douyu/9272043
-
-动漫花园,http://live.iill.top/douyu.php?id=426517
-动漫花园,http://159.75.85.63:35455/douyu/426517
-动漫花园,https://www.goodiptv.club/douyu/426517
-
-柚动漫01,http://159.75.85.63:35455/douyu/9455567
-
-动漫合集,http://live.iill.top/douyu.php?id=7620081
-动漫合集,http://159.75.85.63:35455/douyu/7620081
-动漫合集,https://www.goodiptv.club/douyu/7620081
-
-宫崎骏动漫,http://live.iill.top/douyu.php?id=4540290
-宫崎骏动漫,http://159.75.85.63:35455/douyu/4540290
-宫崎骏动漫,https://www.goodiptv.club/douyu/4540290
-
-柯南,http://live.iill.top/douyu.php?id=6484910
-柯南,http://159.75.85.63:35455/douyu/6484910
-柯南,https://www.goodiptv.club/douyu/6484910
-
-犬夜叉,http://live.iill.top/douyu.php?id=11906591
-犬夜叉,http://159.75.85.63:35455/douyu/11906591
-犬夜叉,https://www.goodiptv.club/douyu/11906591
-
-游戏直播,#genre#
-恐怖游戏01,http://159.75.85.63:35455/douyu/10401446
-恐怖游戏02,http://159.75.85.63:35455/douyu/10401475
-恐怖游戏03,http://159.75.85.63:35455/douyu/10401481
-恐怖游戏04,http://159.75.85.63:35455/douyu/5836905
-恐怖游戏05,http://159.75.85.63:35455/douyu/9628877
-恐怖游戏06,http://159.75.85.63:35455/douyu/9401473
 
 哆啦A梦剧场版,#genre#
 
