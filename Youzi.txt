@@ -61,30 +61,27 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 
 粤语歌,http://live.iill.top/douyu.php?id=4728410
 
-柚经典电影,https://live.iill.top/douyu/85894
+柚经典电影,http://live.iill.top/douyu.php?id=85894
 柚经典电影,https://www.goodiptv.club/douyu/85894
 柚经典电影,http://159.75.85.63:35455/douyu/85894
-柚经典电影,http://live.iill.top/douyu.php?id=85894
 
-柚华语片房,https://live.iill.top/douyu/122402
+柚华语片房,http://live.iill.top/douyu.php?id=122402
 
 
 奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
 
-柚粤语电影01,https://live.iill.top/douyu/1226741
-柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
+柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
 柚粤语电影01,https://www.goodiptv.club/douyu/1226741
 
-柚粤语电影02,https://live.iill.top/douyu/10338873
-柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
 柚粤语电影02,http://live.iill.top/douyu.php?id=10338873
+柚粤语电影02,http://159.75.85.63:35455/douyu/10338873
 柚粤语电影02,https://www.goodiptv.club/douyu/10338873
 
-柚粤语电影03,https://live.iill.top/douyu/6566671
+柚粤语电影03,http://live.iill.top/douyu.php?id=6566671
 柚粤语电影03,http://159.75.85.63:35455/douyu/6566671
 柚粤语电影03,https://www.goodiptv.club/douyu/6566671
-柚粤语电影03,http://live.iill.top/douyu.php?id=6566671
+
 
 
 综艺,#genre#
