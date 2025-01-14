@@ -607,7 +607,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 Muzzik,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 韩国1,https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
 韩国2,https://vd3.bdstatic.com/mda-nba9z1mqi949jyyb/sc/cae_h264_delogo/1644629210546304303/mda-nba9z1mqi949jyyb.mp4
-动漫混剪视听,http://159.75.85.63:35455/douyu/9191006
+动漫混剪视听,http://159.75.85.63:35450/douyu/9191006
 二次元舞蹈,http://159.75.85.63:35455/douyu/9409703
 
 测试,#genre#
