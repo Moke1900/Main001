@@ -59,7 +59,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
-粤语歌曲,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv
+粤语歌曲,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?time=0
 粤语歌曲2,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?wsAuth=d93fcc73a17c06ebf279d5ea1866f18e&token=web-h5-0-4728410-01253923c85f000b28272b5e991819ec5e391f7129d26b52&logo=0&expire=0&did=7609cc117e92e36c86721e7b00081701&ver=219032101&pt=2&st=3&sid=406870420&mcid2=0&origin=tct&fcdn=tct&fo=1&mix=0&isp=
 粤语歌曲3,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?wsAuth=d93fcc73a17c06ebf279d5ea1866f18e&token=web-h5-0-4728410-01253923c85f000b28272b5e991819ec5e391f7129d26b52
 粤语歌曲4,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?wsAuth=d93fcc73a17c06ebf279d5ea1866f18e
