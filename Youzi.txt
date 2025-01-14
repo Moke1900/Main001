@@ -59,11 +59,9 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
-粤语歌,"FOR https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv: LOOP = TRUE"
-
-
-粤语歌曲2,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv:LOOP=TRUE
-粤语歌曲3,FOR https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv:LOOP=TRUE
+粤语歌,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?&LOOP=TRUE
+粤语歌曲2,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?:LOOP=TRUE
+粤语歌曲3,FOR=https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?&LOOP=TRUE
 粤语歌曲4,https://tc-tct.douyucdn2.cn/dyliveflv3a/4728410rEXJ5a6ZB.flv?
 
 柚经典电影,https://stream-zhujiang-gd-116-199-8-18.edgesrv.com:443/live/85894rmovieChow.flv?wsAuth=731eb6cd726e1b1282fce391338ea383&token=web-h5-0-85894-a3575d938a4aa30933418f4ee9ba796f8728947ffe5a49ea&logo=0&expire=0&did=7609cc117e92e36c86721e7b00081701&ver=219032101&pt=2&st=0&sid=406928305&mcid2=0&vhost=play2&origin=hw&fcdn=scdn&fo=0&mix=0&isp=scdncbngudzjsm
