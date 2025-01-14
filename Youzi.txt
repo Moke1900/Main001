@@ -69,7 +69,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 柚华语片房,https://live.iill.top/douyu/122402
 
 
-奶虫粤语电影,https://live.iill.top/douyu/5033502
+奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
 
 柚粤语电影01,https://live.iill.top/douyu/1226741
 柚粤语电影01,http://159.75.85.63:35455/douyu/1226741
