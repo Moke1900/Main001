@@ -44,7 +44,7 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 
 粤语歌,http://live.iill.top/douyu.php?id=4728410
 
-柚经典电影,http://live.iill.top/douyu.php?id=85894
+柚经典电影,https://live.iill.top/douyu/85894?
 柚经典电影,https://www.goodiptv.club/douyu/85894
 柚经典电影,http://159.75.85.63:35455/douyu/85894
 
