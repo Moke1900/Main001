@@ -41,17 +41,24 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
-
+日本资讯01,https://live.iill.top/douyu/296836
+动漫资讯01,https://live.iill.top/douyu/9272043
+动漫资讯02,https://live.iill.top/douyu/5187099
+测试二次元舞蹈,https://live.iill.top/douyu/9409703
 测试粤语歌,http://live.iill.top/douyu.php?id=4728410
+动漫视听01,http://live.iill.top/douyu.php?id=9191006
+动漫视听02,https://live.iill.top/douyu/9390685
+电影精彩片段1,https://live.iill.top/douyu/7212528
 
 奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
 
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
+周星驰电影,https://live.iill.top/douyu/122402
 
 柚国语电影01,https://live.iill.top/douyu/12192607
 柚国语电影02,https://live.iill.top/douyu/10329300
 柚国语电影03,https://live.iill.top/douyu/322360
-
+柚国语电影04,https://live.iill.top/douyu/9476806
 
 柚电视剧01,https://live.iill.top/douyu/12143858
 柚电视剧02,https://live.iill.top/douyu/5061550
@@ -64,6 +71,8 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 电影解说04,https://live.iill.top/douyu/8325511
 电影解说05,https://live.iill.top/douyu/421222
 电影解说06,https://live.iill.top/douyu/8884164
+动漫解说01,https://live.iill.top/douyu/9674566
+
 
 综艺,#genre#
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
@@ -243,9 +252,5 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 Muzzik,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 韩国1,https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
 韩国2,https://vd3.bdstatic.com/mda-nba9z1mqi949jyyb/sc/cae_h264_delogo/1644629210546304303/mda-nba9z1mqi949jyyb.mp4
-
-动漫混剪视听,http://live.iill.top/douyu.php?id=9191006
-
-二次元舞蹈,http://159.75.85.63:35455/douyu/9409703
 
 测试,#genre#
