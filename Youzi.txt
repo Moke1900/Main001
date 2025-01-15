@@ -48,10 +48,22 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
 
+柚国语电影01,https://live.iill.top/douyu/12192607
+柚国语电影02,https://live.iill.top/douyu/10329300
+
+
+
+柚电视剧01,https://live.iill.top/douyu/12143858
+柚电视剧02,https://live.iill.top/douyu/5061550
+柚电视剧03,https://live.iill.top/douyu/8371123
+
+
 电影解说01,https://live.iill.top/douyin/549693
 电影解说02,https://live.iill.top/douyu/8774345
 电影解说03,https://live.iill.top/douyu/8706652
 电影解说04,https://live.iill.top/douyu/8325511
+电影解说05,https://live.iill.top/douyu/421222
+电影解说06,https://live.iill.top/douyu/8884164
 
 综艺,#genre#
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
