@@ -56,7 +56,7 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 
 柚粤语电影02,http://live.iill.top/douyu.php?id=10338873
 
-柚粤语电影03,http://live.iill.top/douyu.php?id=6566671
+柚粤语电影03,https://live.iill.top/douyin/6566671?
 
 
 综艺,#genre#
