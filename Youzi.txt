@@ -42,22 +42,16 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
-粤语歌,http://live.iill.top/douyu.php?id=4728410
-
-柚经典电影,https://live.iill.top/douyu/85894?
-柚经典电影,https://www.goodiptv.club/douyu/85894
-柚经典电影,http://159.75.85.63:35455/douyu/85894
-
-柚华语片房,http://live.iill.top/douyu.php?id=122402
+测试粤语歌,http://live.iill.top/douyu.php?id=4728410
 
 奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
 
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
 
-柚粤语电影02,http://live.iill.top/douyu.php?id=10338873
-
-柚粤语电影03,https://live.iill.top/douyin/6566671?
-
+电影解说01,https://live.iill.top/douyin/549693
+电影解说02,https://live.iill.top/douyu/8774345
+电影解说03,https://live.iill.top/douyu/8706652
+电影解说04,https://live.iill.top/douyu/8325511
 
 综艺,#genre#
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
