@@ -52,7 +52,9 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 
 奶虫粤语电影,http://live.iill.top/douyu.php?id=5033502
 虎牙粤影,https://live.iill.top/huya/21059572
-
+虎牙国影01,https://live.iill.top/huya/11352965
+虎牙国影02,https://live.iill.top/huya/20969142
+虎牙国影03,https://live.iill.top/huya/11602055
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
 
 
