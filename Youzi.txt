@@ -54,7 +54,7 @@ CCTV-8电视剧，http://61.185.200.196:10000/rtp/239.112.205.224:5140
 虎牙粤影,https://live.iill.top/huya/21059572
 柚粤语电影01,http://live.iill.top/douyu.php?id=1226741
 周星星粤语,https://live.iill.top/huya/11336587
-周星星01,https://live.iill.top/huya/11342412
+周星星01,https://live.iill.top/huya/11342412#https://live.iill.top/huya/11336587
 周星星02,https://live.iill.top/huya/30328153
 沈腾喜剧,https://live.iill.top/huya/11601968
 经典国语喜剧,https://live.iill.top/huya/26058097
